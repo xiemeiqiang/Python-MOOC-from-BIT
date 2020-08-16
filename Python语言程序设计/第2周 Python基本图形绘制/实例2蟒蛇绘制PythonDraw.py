@@ -14,4 +14,5 @@ turtle.circle(40, 80/2)
 turtle.fd(40)
 turtle.circle(16, 180)
 turtle.fd(40 * 2/3)
-turtle.done()
+turtle.done() #绘图完成后不自动退出
+
