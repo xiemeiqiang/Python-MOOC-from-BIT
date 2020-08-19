@@ -13,11 +13,6 @@ def drawGap():
     turtle.fd(5)
 def drawLine(draw):
     turtle.pendown() if draw else turtle.penup()
-    # 三目运算符
-    # 对于条件表达式  b ? x : y ，
-    # 先计算条件b，然后进行判断。
-    # 如果b的值为true，计算x的值，运算结果为x的值；否则，计算y的值，运算结果为y的值。
-    # 一个条件表达式绝不会既计算x，又计算y。条件运算符是右结合的，也就是说，从右向左分组计算。
     turtle.fd(40)
     drawGap()
     turtle.right(90)
