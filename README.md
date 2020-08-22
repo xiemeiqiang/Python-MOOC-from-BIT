@@ -18,7 +18,7 @@
 2.Python未来之路
     
     Python Everywhere，Python无处不在
-    Python Only Not Enough。只有Python不足够
+    Python Only Not Enough，只有Python不足够
     Python EcoSystem，Python计算生态将成为编程主流
     
 # 北京理工大学Python语言课程组
