@@ -123,6 +123,57 @@
     Qt开发框架的Python接口
     推荐的Python GUI开发第三方库
     
-2.
+2.wxPthon 
+
+    跨平台GUI开发框架
+
+3.PyGObject
+
+    使用GTK+开发GUI的功能库
+    
+
+游戏开发
+
+4.PyGame
+    
+    简单的游戏开发功能库
+    
+5.Panda3D
+    
+    开源、跨平台的3D渲染和游戏开发库
+    由迪斯尼开发，卡耐基－梅隆娱娱乐科技中心支持。Python是官方推荐语言。
+    
+6.cocos2d
+
+    构建2D游戏和图形界面交互式应用的框架
+    
+虚拟现实
+
+7.VR Zero
+
+    在树莓派上开发VR应用的Python库
+    
+8.pyovr
+    
+    Oculus Rift 的python库
+    
+9.Vizard
+    
+    基于python的通用VR开发引擎
+    
+图形艺术
+
+10.Quads
+
+    迭代的艺术
+    
+11.ascii_art
+
+    ASCII艺术库
+    
+12.turtle
+
+    random art
+    
 
                 
